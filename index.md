@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Projeto de Automação Residencial com Arduino
 
-You can use the [editor on GitHub](https://github.com/itsmegzn/automacao-residencial-arduino/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Projeto realizado por Glauber Magalhães e Jonathan Sousa, sob orientação do Professor Pedro Galvão
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Funcionalidades
 
-### Markdown
+1. Controlar as lâmpadas de todos os cômodos, bem como iluminação dos leds RGB da piscina
+2. Abertura e fechamento do portão da garagem
+3. Sensor de temperatura e humidade que sincroniza os dados coletados com uma base de dados MySQL a cada 10 minutos
+4. Aplicativo Web
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Em desenvolvimento
 
-```markdown
-Syntax highlighted code block
+- Horta irrigada automaticamente conforme necessidade da planta (aproveitando água da chuva)
+- Energia Solar
 
-# Header 1
-## Header 2
-### Header 3
+### Contato
 
-- Bulleted
-- List
+glaubermagalhaes@outlook.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsmegzn/automacao-residencial-arduino/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.linkedin.com/in/glauberarielmagalhaes/
